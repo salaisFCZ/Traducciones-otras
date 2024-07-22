@@ -40,6 +40,8 @@ https://github.com/RoxanneSHS/VaultEE
 
 https://github.com/RoxanneSHS/BoneHill
 
+https://github.com/SpellholdStudios/IEP_Extended_Banter
+
 https://github.com/RoxanneSHS/AjocMod
 
 
