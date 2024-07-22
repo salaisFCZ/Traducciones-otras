@@ -44,4 +44,8 @@ https://github.com/SpellholdStudios/IEP_Extended_Banter
 
 https://github.com/RoxanneSHS/AjocMod
 
+https://github.com/SpellholdStudios/MinscFriendship
+
+https://github.com/SpellholdStudios/ImoenFriendship
+
 
