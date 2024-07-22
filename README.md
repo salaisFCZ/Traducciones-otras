@@ -33,3 +33,7 @@ https://github.com/SpellholdStudios/The_Minotaur_and_Lilacor
 https://www.pocketplane.net/quest-pack/
 
 https://github.com/orgs/Pocket-Plane-Group/repositories
+
+https://github.com/SpellholdStudios/TheSlitheringMenace
+
+
