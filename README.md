@@ -50,4 +50,6 @@ https://github.com/SpellholdStudios/ImoenFriendship
 
 https://github.com/Pocket-Plane-Group/NPC_Flirt_Packs
 
+https://github.com/SpellholdStudios/ValygarFriendship
+
 
