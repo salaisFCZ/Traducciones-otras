@@ -48,4 +48,6 @@ https://github.com/SpellholdStudios/MinscFriendship
 
 https://github.com/SpellholdStudios/ImoenFriendship
 
+https://github.com/Pocket-Plane-Group/NPC_Flirt_Packs
+
 
