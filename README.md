@@ -1,3 +1,5 @@
+YA ESTABAN EN ESPAÑOL LISTA :
+
 https://github.com/SpellholdStudios/DSotSC
 
 https://github.com/The-Gate-Project/Nanstein
