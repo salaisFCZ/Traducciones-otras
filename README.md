@@ -83,3 +83,7 @@ http://www.shsforums.net/files/file/847-recargador-v23/
 http://www.shsforums.net/files/file/850-la-musica-de-los-reinos-v21/
 
 http://www.shsforums.net/files/category/95-clan-reo-mirror/
+
+https://github.com/SpellholdStudios/RuadRofhessaItemUpgrade
+
+https://github.com/SpellholdStudios/Bolsa
