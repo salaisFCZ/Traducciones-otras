@@ -87,3 +87,5 @@ http://www.shsforums.net/files/category/95-clan-reo-mirror/
 https://github.com/SpellholdStudios/RuadRofhessaItemUpgrade
 
 https://github.com/SpellholdStudios/Bolsa
+
+https://github.com/Gibberlings3/BG_Quests_And_Encounters
