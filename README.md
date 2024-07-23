@@ -75,3 +75,11 @@ https://github.com/InfinityMods/Ascension
 https://github.com/RoxanneSHS/RoxanneSHS.github.io?tab=readme-ov-file         ( Ribald's Genie v3.0 español )
 
 https://github.com/SpellholdStudios/Darron
+
+http://www.shsforums.net/files/file/854-sir-renal-v25/
+
+http://www.shsforums.net/files/file/847-recargador-v23/
+
+http://www.shsforums.net/files/file/850-la-musica-de-los-reinos-v21/
+
+http://www.shsforums.net/files/category/95-clan-reo-mirror/
