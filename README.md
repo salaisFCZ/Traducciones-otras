@@ -20,6 +20,8 @@ https://github.com/Pocket-Plane-Group/Assassinations
 
 https://github.com/Pocket-Plane-Group/Banter_Pack
 
+https://github.com/Pocket-Plane-Group/bg1ub (A restoration mod for Baldur's Gate 1)
+
 https://github.com/Pocket-Plane-Group/UnfinishedBusiness (A restoration mod for Baldur's Gate 2)
 
 https://github.com/SpellholdStudios/Shadows_over_Soubar
