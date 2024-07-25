@@ -92,6 +92,8 @@ https://github.com/SpellholdStudios/Bolsa
 
 https://github.com/Gibberlings3/BG_Quests_And_Encounters
 
+https://github.com/SpellholdStudios/Almaterias_Restoration_Project
+
 https://github.com/DaftHunk/Portraits-Portraits-Everywhere/
 
 https://github.com/Gibberlings3/Tweaks-Anthology
