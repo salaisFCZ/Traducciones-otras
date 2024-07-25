@@ -92,4 +92,6 @@ https://github.com/SpellholdStudios/Bolsa
 
 https://github.com/Gibberlings3/BG_Quests_And_Encounters
 
+https://github.com/DaftHunk/Portraits-Portraits-Everywhere/
+
 https://github.com/SpellholdStudios/BP-BGT-Worldmap
