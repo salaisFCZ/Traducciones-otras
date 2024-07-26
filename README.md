@@ -101,3 +101,5 @@ https://github.com/Gibberlings3/Tweaks-Anthology
 https://github.com/SpellholdStudios/BP-BGT-Worldmap
 
 https://github.com/SpellholdStudios/Fading_Promises
+
+https://github.com/SpellholdStudios/Expanded_Thief_Stronghold
