@@ -99,3 +99,5 @@ https://github.com/DaftHunk/Portraits-Portraits-Everywhere/
 https://github.com/Gibberlings3/Tweaks-Anthology
 
 https://github.com/SpellholdStudios/BP-BGT-Worldmap
+
+https://github.com/SpellholdStudios/Fading_Promises
