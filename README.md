@@ -103,3 +103,5 @@ https://github.com/SpellholdStudios/BP-BGT-Worldmap
 https://github.com/SpellholdStudios/Fading_Promises
 
 https://github.com/SpellholdStudios/Expanded_Thief_Stronghold
+
+https://github.com/Pocket-Plane-Group/Assassinations/releases/tag/v19
