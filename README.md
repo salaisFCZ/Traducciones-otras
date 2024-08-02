@@ -152,6 +152,8 @@ https://github.com/D2-mods/D2-Weapon ( no esta en español)
 
 https://github.com/Argent77/DjinniCompanion ( no esta en español)
 
+https://www.baldurs-gate.de/index.php?resources/tales-of-anegh.14/ ( no esta en español)
+
 https://github.com/Gibberlings3/Tweaks-Anthology
 
 https://github.com/Argent77/A7-HiddenGameplayOptions
