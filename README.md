@@ -115,6 +115,8 @@ https://github.com/Pocket-Plane-Group/D0XPmod
 
 https://github.com/Pocket-Plane-Group/D0Tweak
 
+https://github.com/Pocket-Plane-Group/Under-Respresented_Items ( no esta en español)
+
 ---------------------------------------------------------------------------------
 Icewind Dale 2 
 
