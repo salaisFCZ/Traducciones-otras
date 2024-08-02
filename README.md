@@ -24,6 +24,8 @@ https://github.com/Sampsca/BGEE-Classic-Movies
 
 https://github.com/Argent77/A7-ImprovedArcher
 
+https://github.com/Gibberlings3/The_Boareskyr_Bridge_Scene
+
 https://github.com/Sampsca/ThrownHammers/releases
 
 https://github.com/Pocket-Plane-Group/Item_Upgrade
