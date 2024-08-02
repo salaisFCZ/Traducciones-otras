@@ -30,6 +30,8 @@ https://github.com/Sampsca/ThrownHammers/releases
 
 https://github.com/Pocket-Plane-Group/Item_Upgrade
 
+https://github.com/Gibberlings3/Jasteys_SoD_Tweakpack
+
 https://github.com/Pocket-Plane-Group/Lure_Of_Sirines_Call
 
 https://github.com/Pocket-Plane-Group/Assassinations
