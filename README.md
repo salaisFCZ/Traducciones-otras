@@ -134,6 +134,8 @@ https://github.com/D2-mods/D2-Weapon ( no esta en español)
 
 https://github.com/Gibberlings3/Tweaks-Anthology
 
+https://github.com/Argent77/A7-HiddenGameplayOptions
+
 https://github.com/Gibberlings3/SwordCoastStratagems
 
 ---------------------------------------------------------------------------------
