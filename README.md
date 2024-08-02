@@ -136,6 +136,8 @@ https://github.com/Pocket-Plane-Group/D0XPmod
 
 https://github.com/Pocket-Plane-Group/D0Tweak
 
+https://github.com/SpellholdStudios/Adventures_In_Papperland
+
 https://web.archive.org/web/20230320183606/http://www.shsforums.net/files/file/320-rogue-rebalancing-windows-version/
 
 https://web.archive.org/web/20230324054801/http://www.shsforums.net/files/file/709-atweaks-windows-version/
