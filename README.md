@@ -109,3 +109,8 @@ https://github.com/SpellholdStudios/Expanded_Thief_Stronghold
 https://github.com/Pocket-Plane-Group/Assassinations/releases/tag/v19
 
 https://github.com/CrevsDaak/thalan
+
+---------------------------------------------------------------------------------
+Icewind Dale 2 
+
+https://github.com/Pocket-Plane-Group/iwd2_bonus_merchant
