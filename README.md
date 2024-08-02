@@ -4,7 +4,6 @@ These mods were already translated, I am just compiling them
 
 ---------------------------------------------------------------------------------------
 
-https://github.com/Pocket-Plane-Group/NPC_Flirt_Packs
 
 https://github.com/SpellholdStudios/DSotSC
 
