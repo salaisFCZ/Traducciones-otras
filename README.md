@@ -1,4 +1,8 @@
-YA ESTABAN EN ESPAÑOL LISTA :
+Estos mods ya estaban traducidos solo los recopilo
+
+These mods were already translated, I am just compiling them
+
+---------------------------------------------------------------------------------------
 
 https://github.com/SpellholdStudios/DSotSC
 
