@@ -106,6 +106,8 @@ https://github.com/RoxanneSHS/Ribalds_Genie
 
 https://github.com/SpellholdStudios/Darron
 
+http://www.shsforums.net/files/file/821-hanna-pnj/  ( + 6 mini módulos de dificultad)
+
 http://www.shsforums.net/files/file/854-sir-renal-v25/
 
 http://www.shsforums.net/files/file/847-recargador-v23/
