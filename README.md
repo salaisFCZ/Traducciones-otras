@@ -38,6 +38,10 @@ https://github.com/SpellholdStudios/Shadows_over_Soubar
 
 https://github.com/Argent77/A7-TotLM-BG2EE
 
+https://github.com/Argent77/A7-SkipChateauIrenicus
+
+https://github.com/Gibberlings3/EndlessBG1
+
 https://github.com/SpellholdStudios/Lucy_the_Wyvern
 
 https://github.com/SpellholdStudios/Trovador_REO
