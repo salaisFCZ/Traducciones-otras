@@ -122,6 +122,8 @@ https://github.com/Pocket-Plane-Group/D0Tweak
 
 https://github.com/Pocket-Plane-Group/Under-Respresented_Items ( no esta en español)
 
+https://github.com/Argent77/HQ-SoundClips-BG2EE ( no esta en español)
+
 https://github.com/Gibberlings3/SwordCoastStratagems
 
 ---------------------------------------------------------------------------------
