@@ -110,6 +110,10 @@ https://github.com/Pocket-Plane-Group/Assassinations/releases/tag/v19
 
 https://github.com/CrevsDaak/thalan
 
+https://github.com/Pocket-Plane-Group/D0XPmod
+
+https://github.com/Pocket-Plane-Group/D0Tweak
+
 ---------------------------------------------------------------------------------
 Icewind Dale 2 
 
