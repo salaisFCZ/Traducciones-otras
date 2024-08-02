@@ -62,8 +62,6 @@ https://github.com/SpellholdStudios/ValygarFriendship
 
 https://github.com/Gitjas/Adalons_Blood
 
-https://github.com/MattyGroove/DrizztSaga (roxxane)
-
 https://github.com/Black-Wyrm-Lair/Drizzt-Saga
 
 https://github.com/SpellholdStudios/Region_of_Terror
