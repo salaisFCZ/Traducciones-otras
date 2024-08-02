@@ -6,6 +6,8 @@ These mods were already translated, I am just compiling them
 
 https://github.com/Bubb13/EEex/releases
 
+https://github.com/Bubb13/Bubbs-Spell-Menu-Extended
+
 
 https://github.com/SpellholdStudios/DSotSC
 
