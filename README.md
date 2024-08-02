@@ -20,6 +20,10 @@ https://github.com/The-Gate-Project/VampireTales
 
 https://github.com/Gibberlings3/iwdification
 
+https://github.com/Sampsca/BGEE-Classic-Movies
+
+https://github.com/Argent77/A7-ImprovedArcher
+
 https://github.com/Sampsca/ThrownHammers/releases
 
 https://github.com/Pocket-Plane-Group/Item_Upgrade
