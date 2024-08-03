@@ -24,6 +24,8 @@ https://github.com/Gibberlings3/iwdification
 
 https://github.com/RoxanneSHS/Finch
 
+https://github.com/Gibberlings3/NPCTweak
+
 https://github.com/Gibberlings3/Another_Fine_Hell
 
 https://github.com/Sampsca/BGEE-Classic-Movies
