@@ -171,6 +171,12 @@ https://www.baldurs-gate.de/index.php?resources/tales-of-anegh.14/ ( no esta en 
 
 https://github.com/11jo/Paladins-of-Faerun-Quest-Pack/ ( no esta en español)
 
+https://www.baldurs-gate.de/index.php?resources/call-of-the-lost-goddess.67/ ( no esta en español)
+
+https://www.baldurs-gate.de/index.php?resources/loretakers.68/ ( no esta en español)
+
+https://www.baldurs-gate.de/index.php?resources/dark-tidings.65/ ( no esta en español)
+
 https://github.com/Gibberlings3/Tweaks-Anthology
 
 https://github.com/Argent77/A7-HiddenGameplayOptions
