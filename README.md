@@ -177,6 +177,10 @@ https://www.baldurs-gate.de/index.php?resources/loretakers.68/ ( no esta en espa
 
 https://www.baldurs-gate.de/index.php?resources/dark-tidings.65/ ( no esta en español)
 
+https://github.com/SpellholdStudios/SarevokFriendship ( no esta en español)
+
+http://athkatla.cob-bg.pl/viewforum.php?f=127 ( no esta en español)
+
 https://github.com/Gibberlings3/Tweaks-Anthology
 
 https://github.com/Argent77/A7-HiddenGameplayOptions
