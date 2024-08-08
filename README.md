@@ -181,6 +181,18 @@ https://github.com/SpellholdStudios/SarevokFriendship ( no esta en español)
 
 http://athkatla.cob-bg.pl/viewforum.php?f=127 ( no esta en español)
 
+https://downloads.weaselmods.net/download/tales-of-the-deep-gardens/  ( no esta en español)
+
+https://downloads.weaselmods.net/download/i-shall-never-forget/  ( no esta en español)
+
+https://downloads.weaselmods.net/download/the-white-queen/  ( no esta en español)
+
+https://downloads.weaselmods.net/download/innershade/   ( no esta en español)
+
+https://downloads.weaselmods.net/download/the-bloodied-stings-of-barovia/  ( no esta en español)
+
+https://downloads.weaselmods.net/download/juniper-and-the-stone-leech/    ( no esta en español)
+
 https://github.com/Gibberlings3/Tweaks-Anthology
 
 https://github.com/Argent77/A7-HiddenGameplayOptions
