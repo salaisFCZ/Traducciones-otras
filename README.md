@@ -193,6 +193,10 @@ https://downloads.weaselmods.net/download/the-bloodied-stings-of-barovia/  ( no 
 
 https://downloads.weaselmods.net/download/juniper-and-the-stone-leech/    ( no esta en español)
 
+https://downloads.weaselmods.net/download/the-journey-to-the-whin-hill/   ( no esta en español)
+
+https://downloads.weaselmods.net/download/will-of-the-wisps/             ( no esta en español)
+
 https://github.com/Gibberlings3/Tweaks-Anthology
 
 https://github.com/Argent77/A7-HiddenGameplayOptions
