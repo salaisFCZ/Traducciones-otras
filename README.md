@@ -181,6 +181,18 @@ https://github.com/SpellholdStudios/SarevokFriendship ( no esta en español)
 
 http://athkatla.cob-bg.pl/viewforum.php?f=127 ( no esta en español)
 
+https://downloads.weaselmods.net/download/in-love-undeath/  ( no esta en español)
+
+https://downloads.weaselmods.net/download/oozes-lounge/   ( no esta en español)
+
+https://github.com/Pocket-Plane-Group/Reunion     ( no esta en español)
+
+https://github.com/Pocket-Plane-Group/Sellswords   ( no esta en español)
+
+https://github.com/Argent77/A7-TestYourMettle   ( no esta en español)
+
+https://downloads.weaselmods.net/download/eilistraees-song/      ( no esta en español)
+
 https://downloads.weaselmods.net/download/tales-of-the-deep-gardens/  ( no esta en español)
 
 https://downloads.weaselmods.net/download/i-shall-never-forget/  ( no esta en español)
