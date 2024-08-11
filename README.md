@@ -167,6 +167,8 @@ https://github.com/D2-mods/D2-Weapon ( no esta en español)
 
 https://github.com/Argent77/DjinniCompanion ( no esta en español)
 
+https://github.com/TotalMilk90/gorgon  ( no esta en español)
+
 https://www.baldurs-gate.de/index.php?resources/tales-of-anegh.14/ ( no esta en español)
 
 https://github.com/11jo/Paladins-of-Faerun-Quest-Pack/ ( no esta en español)
