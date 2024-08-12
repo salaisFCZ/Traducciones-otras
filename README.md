@@ -152,6 +152,7 @@ https://github.com/SpellholdStudios/Adventures_In_Papperland
 
 https://github.com/RoxanneSHS/ChloeEET  (npc)
 
+https://github.com/The-Gate-Project/Sir_Renal
 
 https://web.archive.org/web/20230320183606/http://www.shsforums.net/files/file/320-rogue-rebalancing-windows-version/
 
