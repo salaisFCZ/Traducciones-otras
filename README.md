@@ -114,7 +114,7 @@ https://github.com/SpellholdStudios/Darron
 
 http://www.shsforums.net/files/file/821-hanna-pnj/  ( + 6 mini módulos de dificultad)
 
-http://www.shsforums.net/files/file/854-sir-renal-v25/
+https://github.com/The-Gate-Project/Sir_Renal
 
 http://www.shsforums.net/files/file/847-recargador-v23/
 
@@ -151,8 +151,6 @@ https://github.com/Pocket-Plane-Group/D0Tweak
 https://github.com/SpellholdStudios/Adventures_In_Papperland
 
 https://github.com/RoxanneSHS/ChloeEET  (npc)
-
-https://github.com/The-Gate-Project/Sir_Renal
 
 https://web.archive.org/web/20230320183606/http://www.shsforums.net/files/file/320-rogue-rebalancing-windows-version/
 
