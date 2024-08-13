@@ -214,6 +214,8 @@ https://github.com/Gibberlings3/Tweaks-Anthology
 
 https://github.com/Gibberlings3/SwordCoastStratagems
 
+https://github.com/konserw/eekeeper-qt  ( no esta en español)
+
 ---------------------------------------------------------------------------------
 Icewind Dale 2 
 
