@@ -106,6 +106,8 @@ https://github.com/InfinityMods/TowerOfDeception
 
 https://github.com/InfinityMods/TDDz
 
+https://github.com/11jo/TDD_Hall-of-Knowledge
+
 https://github.com/InfinityMods/Ascension
 
 https://github.com/RoxanneSHS/Ribalds_Genie
