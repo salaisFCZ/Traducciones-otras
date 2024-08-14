@@ -218,6 +218,8 @@ https://github.com/Gibberlings3/SwordCoastStratagems
 
 https://github.com/konserw/eekeeper-qt  ( no esta en español)
 
+https://sourceforge.net/projects/eekeeper/postdownload ( no esta en español)
+
 ---------------------------------------------------------------------------------
 Icewind Dale 2 
 
