@@ -213,6 +213,8 @@ https://downloads.weaselmods.net/download/the-journey-to-the-whin-hill/   ( no e
 https://downloads.weaselmods.net/download/will-of-the-wisps/             ( no esta en español)
 
 https://github.com/Argent77/A7-MagicStore ( no esta en español)
+
+https://github.com/Argent77/A7-GolemConstruction ( no esta en español)
  
 https://github.com/Gibberlings3/Tweaks-Anthology
 
