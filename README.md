@@ -14,8 +14,6 @@ https://github.com/Bubb13/Bubbs-Spell-Menu-Extended
 
 https://github.com/SpellholdStudios/DSotSC
 
-https://github.com/The-Gate-Project/Nanstein
-
 https://github.com/The-Gate-Project/Alcool
 
 https://github.com/The-Gate-Project/VampireTales
