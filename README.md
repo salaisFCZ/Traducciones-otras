@@ -160,6 +160,8 @@ https://web.archive.org/web/20230324054801/http://www.shsforums.net/files/file/7
 
 https://github.com/Pocket-Plane-Group/Under-Respresented_Items ( no esta en español)
 
+https://github.com/Gibberlings3/BS_Baldurans_Seatower  ( no esta en español)
+
 https://github.com/Argent77/HQ-SoundClips-BG2EE ( no esta en español)
 
 https://github.com/Argent77/A7-LightingPackEE ( no esta en español)
