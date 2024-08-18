@@ -225,8 +225,17 @@ https://github.com/Argent77/A7-WaresOfThePlanes ( no esta en español)
 https://github.com/SpellholdStudios/Bank_of_Baldurs_Gate ( no esta en español)
 
 https://github.com/K4thos/EET_Tweaks ( no esta en español)
+----------------------------------------------------------------------------------
+
+                                             Mejoras de "graficos y sonidos"
 
  https://www.sentrizeal.com/pst_7.htm  ( nuevas animaciones y capas )
+
+ https://www.nexusmods.com/baldursgate/mods/56/?tab=description ( mejoras de container sonido )
+
+ https://github.com/SpellholdStudios/BGGOEET
+
+ ---------------------------------------------------------------
  
 https://github.com/Gibberlings3/Tweaks-Anthology
 
