@@ -190,6 +190,8 @@ https://github.com/SpellholdStudios/SarevokFriendship ( no esta en español)
 
 http://athkatla.cob-bg.pl/viewforum.php?f=127 ( no esta en español)
 
+https://downloads.weaselmods.net/download/of-heirlooms-and-classes/ ( no esta en español)
+
 https://downloads.weaselmods.net/download/in-love-undeath/  ( no esta en español)
 
 https://downloads.weaselmods.net/download/oozes-lounge/   ( no esta en español)
