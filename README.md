@@ -38,6 +38,8 @@ https://github.com/Gibberlings3/Road_To_Discovery_for_SoD
 
 https://github.com/Sampsca/ThrownHammers/releases
 
+https://github.com/SpellholdStudios/Rupert_the_Dye_Merchant
+
 https://github.com/Gibberlings3/EndlessBG1
 
 https://github.com/Pocket-Plane-Group/Item_Upgrade
