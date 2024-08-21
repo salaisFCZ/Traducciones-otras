@@ -20,8 +20,6 @@ https://github.com/The-Gate-Project/VampireTales
 
 https://github.com/The-Gate-Project/Kara-Tur
 
-https://github.com/Gibberlings3/iwdification
-
 https://github.com/RoxanneSHS/Finch
 
 https://github.com/Gibberlings3/NPCTweak
@@ -35,8 +33,6 @@ https://github.com/Argent77/A7-ImprovedArcher
 https://github.com/Gibberlings3/The_Boareskyr_Bridge_Scene
 
 https://github.com/Gibberlings3/Road_To_Discovery_for_SoD
-
-https://github.com/Sampsca/ThrownHammers/releases
 
 https://github.com/SpellholdStudios/Rupert_the_Dye_Merchant
 
@@ -234,8 +230,6 @@ https://github.com/Argent77/A7-WaresOfThePlanes ( no esta en español)
 
 https://github.com/SpellholdStudios/Bank_of_Baldurs_Gate ( no esta en español)
 
-https://github.com/K4thos/EET_Tweaks ( no esta en español)
-
 ----------------------------------------------------------------------------------
 
                                              Mejoras de "graficos y sonidos"
@@ -248,6 +242,10 @@ https://github.com/K4thos/EET_Tweaks ( no esta en español)
 
  ---------------------------------------------------------------
 
+ https://github.com/Sampsca/ThrownHammers/releases
+
+ https://github.com/Sampsca/ThrownHammers/releases
+
  https://github.com/FredrikLindgren/rr ( ver no oficial )
 
 https://github.com/FredrikLindgren/aTweaks ( ver no oficial )
@@ -255,6 +253,8 @@ https://github.com/FredrikLindgren/aTweaks ( ver no oficial )
 https://github.com/Gibberlings3/Tweaks-Anthology
 
 https://github.com/Gibberlings3/SwordCoastStratagems
+
+https://github.com/K4thos/EET_Tweaks ( no esta en español)
 
 https://github.com/konserw/eekeeper-qt  ( no esta en español)
 
