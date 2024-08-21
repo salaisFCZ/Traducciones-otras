@@ -154,17 +154,9 @@ https://github.com/RoxanneSHS/ChloeEET  (npc)
 
 https://github.com/RoxanneSHS/ValenEE  (npc)
 
-https://web.archive.org/web/20230320183606/http://www.shsforums.net/files/file/320-rogue-rebalancing-windows-version/
-
-https://web.archive.org/web/20230324054801/http://www.shsforums.net/files/file/709-atweaks-windows-version/
-
 https://github.com/Pocket-Plane-Group/Under-Respresented_Items ( no esta en español)
 
 https://github.com/Gibberlings3/BS_Baldurans_Seatower  ( no esta en español)
-
-https://github.com/Argent77/HQ-SoundClips-BG2EE ( no esta en español)
-
-https://github.com/Argent77/A7-LightingPackEE ( no esta en español)
 
 https://github.com/D2-mods/D2-Weapon ( no esta en español)
 
@@ -235,6 +227,10 @@ https://github.com/SpellholdStudios/Bank_of_Baldurs_Gate ( no esta en español)
                                              Mejoras de "graficos y sonidos"
 
  https://www.sentrizeal.com/pst_7.htm  ( nuevas animaciones y capas )
+
+ https://github.com/Argent77/A7-LightingPackEE ( no esta en español)
+
+ https://github.com/Argent77/HQ-SoundClips-BG2EE ( no esta en español)
 
  https://www.nexusmods.com/baldursgate/mods/56/?tab=description ( mejoras de container sonido )
 
