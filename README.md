@@ -200,6 +200,8 @@ https://downloads.weaselmods.net/download/oozes-lounge/   ( no esta en español)
 
 https://github.com/Pocket-Plane-Group/Reunion     ( no esta en español)
 
+https://github.com/The-Gate-Project/PlanarSphere ( no esta en español)
+
 https://github.com/Pocket-Plane-Group/Sellswords   ( no esta en español)
 
 https://github.com/Argent77/A7-TestYourMettle   ( no esta en español)
