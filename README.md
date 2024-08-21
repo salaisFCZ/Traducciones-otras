@@ -158,8 +158,6 @@ https://github.com/RoxanneSHS/ChloeEET  (npc)
 
 https://github.com/RoxanneSHS/ValenEE  (npc)
 
-https://github.com/FredrikLindgren/rr
-
 https://web.archive.org/web/20230320183606/http://www.shsforums.net/files/file/320-rogue-rebalancing-windows-version/
 
 https://web.archive.org/web/20230324054801/http://www.shsforums.net/files/file/709-atweaks-windows-version/
@@ -247,6 +245,10 @@ https://github.com/K4thos/EET_Tweaks ( no esta en español)
  https://github.com/SpellholdStudios/BGGOEET
 
  ---------------------------------------------------------------
+
+ https://github.com/FredrikLindgren/rr ( ver no oficial )
+
+https://github.com/FredrikLindgren/aTweaks ( ver no oficial )
  
 https://github.com/Gibberlings3/Tweaks-Anthology
 
