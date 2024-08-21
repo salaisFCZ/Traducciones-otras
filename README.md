@@ -132,8 +132,6 @@ https://github.com/SpellholdStudios/Almaterias_Restoration_Project
 
 https://github.com/DaftHunk/Portraits-Portraits-Everywhere/
 
-https://github.com/Gibberlings3/Tweaks-Anthology
-
 https://github.com/SpellholdStudios/BP-BGT-Worldmap
 
 https://github.com/SpellholdStudios/Fading_Promises
@@ -238,15 +236,13 @@ https://github.com/SpellholdStudios/Bank_of_Baldurs_Gate ( no esta en español)
 
  ---------------------------------------------------------------
 
- https://github.com/Sampsca/ThrownHammers/releases
+ https://github.com/Gibberlings3/Tweaks-Anthology
 
- https://github.com/Sampsca/ThrownHammers/releases
+https://github.com/Sampsca/ThrownHammers/releases
 
- https://github.com/FredrikLindgren/rr ( ver no oficial )
+https://github.com/FredrikLindgren/rr ( ver no oficial )
 
 https://github.com/FredrikLindgren/aTweaks ( ver no oficial )
- 
-https://github.com/Gibberlings3/Tweaks-Anthology
 
 https://github.com/Gibberlings3/SwordCoastStratagems
 
