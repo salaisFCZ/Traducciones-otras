@@ -246,6 +246,8 @@ https://github.com/FredrikLindgren/rr ( ver no oficial )
 
 https://github.com/FredrikLindgren/aTweaks ( ver no oficial )
 
+https://github.com/r-e-d/EEUITweaks
+
 https://github.com/Gibberlings3/SwordCoastStratagems
 
 https://github.com/K4thos/EET_Tweaks ( no esta en español)
