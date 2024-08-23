@@ -230,6 +230,8 @@ https://github.com/SpellholdStudios/Bank_of_Baldurs_Gate ( no esta en español)
 
  https://github.com/Argent77/A7-LightingPackEE ( no esta en español)
 
+ https://github.com/skellytz/infinity-sounds ( no esta en español)
+
  https://github.com/Argent77/HQ-SoundClips-BG2EE ( no esta en español)
 
  https://www.nexusmods.com/baldursgate/mods/56/?tab=description ( mejoras de container sonido )
