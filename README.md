@@ -182,6 +182,10 @@ http://athkatla.cob-bg.pl/viewforum.php?f=127 ( no esta en español)
 
 https://downloads.weaselmods.net/download/of-heirlooms-and-classes/ ( no esta en español)
 
+https://github.com/Glittergear/GoneNuts ( no esta en español)
+
+https://github.com/Glittergear/DeadGardens ( no esta en español)
+
 https://downloads.weaselmods.net/download/in-love-undeath/  ( no esta en español)
 
 https://downloads.weaselmods.net/download/oozes-lounge/   ( no esta en español)
