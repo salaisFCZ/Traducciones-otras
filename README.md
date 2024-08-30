@@ -162,6 +162,8 @@ https://github.com/D2-mods/D2-Weapon ( no esta en español)
 
 https://github.com/Argent77/DjinniCompanion ( no esta en español)
 
+https://github.com/Gibberlings3/Grey_The_Dog ( no esta en español)
+
 https://github.com/TotalMilk90/gorgon  ( no esta en español)
 
 https://github.com/SpellholdStudios/DemonSummoningRitual ( no esta en español)
