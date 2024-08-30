@@ -166,6 +166,8 @@ https://github.com/TotalMilk90/gorgon  ( no esta en español)
 
 https://github.com/SpellholdStudios/DemonSummoningRitual ( no esta en español)
 
+https://github.com/ArtemiusI/Candlekeep-Revisited ( no esta en español)
+
 https://www.baldurs-gate.de/index.php?resources/tales-of-anegh.14/ ( no esta en español)
 
 https://github.com/11jo/Paladins-of-Faerun-Quest-Pack/ ( no esta en español)
