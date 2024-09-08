@@ -154,6 +154,8 @@ https://github.com/RoxanneSHS/ChloeEET  (npc)
 
 https://github.com/RoxanneSHS/ValenEE  (npc)
 
+https://downloads.weaselmods.net/download/tales-of-the-deep-gardens/  
+
 https://github.com/Pocket-Plane-Group/Under-Respresented_Items ( no esta en español)
 
 https://github.com/Gibberlings3/BS_Baldurans_Seatower  ( no esta en español)
@@ -207,8 +209,6 @@ https://github.com/Deratiseur/Ogre ( no esta en español)
 https://github.com/Glittergear/A-Fowl-Wish ( no esta en español)
 
 https://downloads.weaselmods.net/download/eilistraees-song/      ( no esta en español)
-
-https://downloads.weaselmods.net/download/tales-of-the-deep-gardens/  ( no esta en español)
 
 https://downloads.weaselmods.net/download/i-shall-never-forget/  ( no esta en español)
 
