@@ -248,6 +248,8 @@ https://github.com/SpellholdStudios/Bank_of_Baldurs_Gate ( no esta en español)
 
  https://github.com/SpellholdStudios/BGGOEET
 
+ https://github.com/Spellhold-Studios/Infinity-Animations
+
  ---------------------------------------------------------------
 
  https://github.com/Gibberlings3/Tweaks-Anthology
