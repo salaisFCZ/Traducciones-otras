@@ -154,6 +154,8 @@ https://github.com/RoxanneSHS/ChloeEET  (npc)
 
 https://github.com/RoxanneSHS/ValenEE  (npc)
 
+https://github.com/yellow-hat-elminster/Eve-Of-War ( no esta en español)
+
 https://github.com/SpellholdStudios/BG1_NPCs_for_SoA_-_ToB ( no esta en español)
 
 https://github.com/Pocket-Plane-Group/Under-Respresented_Items ( no esta en español)
