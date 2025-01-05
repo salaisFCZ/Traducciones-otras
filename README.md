@@ -174,6 +174,8 @@ https://github.com/Gibberlings3/Grey_The_Dog ( no esta en español)
 
 https://github.com/TotalMilk90/gorgon  ( no esta en español)
 
+https://github.com/zenblack/Pits-of-Despair ( no esta en español)
+
 https://github.com/SpellholdStudios/DemonSummoningRitual ( no esta en español)
 
 https://github.com/ArtemiusI/Candlekeep-Revisited ( no esta en español)
