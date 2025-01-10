@@ -168,6 +168,8 @@ https://github.com/Gibberlings3/BS_Baldurans_Seatower  ( no esta en español)
 
 https://github.com/D2-mods/D2-Weapon ( no esta en español)
 
+https://github.com/bucketfulofsunshine/baldurian-bar-hop ( no esta en español)
+
 https://github.com/Argent77/DjinniCompanion ( no esta en español)
 
 https://github.com/Gibberlings3/Grey_The_Dog ( no esta en español)
