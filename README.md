@@ -20,8 +20,6 @@ https://github.com/The-Gate-Project/Alcool
 
 https://github.com/The-Gate-Project/VampireTales
 
-https://github.com/The-Gate-Project/Kara-Tur
-
 https://github.com/RoxanneSHS/Finch
 
 https://github.com/Gibberlings3/NPCTweak
@@ -157,6 +155,8 @@ https://github.com/SpellholdStudios/Adventures_In_Papperland
 https://github.com/RoxanneSHS/ChloeEET  (npc)
 
 https://github.com/RoxanneSHS/ValenEE  (npc)
+
+https://github.com/evancauteren/bg2-autumns-twilight-mod
 
 https://github.com/yellow-hat-elminster/Eve-Of-War ( no esta en español)
 
