@@ -160,6 +160,8 @@ https://github.com/evancauteren/bg2-autumns-twilight-mod
 
 https://github.com/RamosPabloA/NPC_Dusk_MOD
 
+https://forums.beamdog.com/discussion/89121/mod-detective-guild-of-athkatla#latest ( no esta en español)
+
 https://github.com/yellow-hat-elminster/Eve-Of-War ( no esta en español)
 
 https://github.com/SpellholdStudios/BG1_NPCs_for_SoA_-_ToB ( no esta en español)
