@@ -14,7 +14,7 @@ https://github.com/Bubb13/Bubbs-Spell-Menu-Extended
 
 https://github.com/Gibberlings3/EE_Fixpack
 
-https://github.com/SpellholdStudios/DSotSC
+https://github.com/Spellhold-Studios/DSotSC
 
 https://github.com/The-Gate-Project/Alcool
 
