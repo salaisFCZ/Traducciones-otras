@@ -58,6 +58,8 @@ https://github.com/Argent77/A7-TotLM-BG2EE
 
 https://github.com/Argent77/A7-SkipChateauIrenicus
 
+https://github.com/Dau1makan/Item-Pack
+
 https://github.com/Gibberlings3/EndlessBG1
 
 https://github.com/InfinityMods/LongerRoadEE
