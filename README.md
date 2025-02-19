@@ -164,7 +164,7 @@ https://github.com/RamosPabloA/NPC_Dusk_MOD
 
 https://github.com/Glittergear/BloodAndFaith ( no esta en español)
 
-https://forums.beamdog.com/discussion/89121/mod-detective-guild-of-athkatla#latest ( no esta en español)
+https://github.com/Austin-BG/SearchGuild ( no esta en español)
 
 https://github.com/yellow-hat-elminster/Eve-Of-War ( no esta en español)
 
