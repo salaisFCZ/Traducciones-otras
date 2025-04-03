@@ -162,6 +162,8 @@ https://github.com/evancauteren/bg2-autumns-twilight-mod
 
 https://github.com/RamosPabloA/NPC_Dusk_MOD
 
+https://github.com/Ychap/JA-AdventurePack ( no esta en español)
+
 https://github.com/Ratatoskr589/All-Things-Mazzy ( no esta en español)
 
 https://github.com/Glittergear/BloodAndFaith ( no esta en español)
