@@ -162,6 +162,8 @@ https://github.com/evancauteren/bg2-autumns-twilight-mod
 
 https://github.com/RamosPabloA/NPC_Dusk_MOD
 
+https://github.com/Gibberlings3/Geomantic_Sorcerer
+
 https://github.com/AciferBG
 
 https://github.com/Ychap/JA-AdventurePack ( no esta en español)
