@@ -3,6 +3,7 @@ Estos mods ya estaban traducidos solo los recopilo
 These mods were already translated, I am just compiling them
 
 ---------------------------------------------------------------------------------------
+EN ESPAÑOL
 
 https://github.com/Gibberlings3/EET
 
@@ -163,6 +164,9 @@ https://github.com/evancauteren/bg2-autumns-twilight-mod
 https://github.com/RamosPabloA/NPC_Dusk_MOD
 
 https://github.com/Gibberlings3/Geomantic_Sorcerer
+
+----------------------------------------------------------------------------------------------
+EN INGLES
 
 https://github.com/AciferBG
 
