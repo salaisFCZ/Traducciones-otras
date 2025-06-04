@@ -57,6 +57,8 @@ https://github.com/SpellholdStudios/Shadows_over_Soubar
 
 https://github.com/Argent77/A7-TotLM-BG2EE
 
+https://github.com/abalabokhin/NWNForBG
+
 https://github.com/Argent77/A7-SkipChateauIrenicus
 
 https://github.com/Dau1makan/Item-Pack
