@@ -71,6 +71,12 @@ https://github.com/SpellholdStudios/Trovador_REO
 
 https://github.com/SpellholdStudios/The_Minotaur_and_Lilacor
 
+https://github.com/AciferBG/Call-of-the-Lost-Goddess
+
+https://github.com/AciferBG/Loretakers
+
+https://github.com/AciferBG/Throne-of-the-Mad-God
+
 https://www.pocketplane.net/quest-pack/
 
 https://github.com/orgs/Pocket-Plane-Group/repositories
