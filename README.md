@@ -174,7 +174,7 @@ https://github.com/Gibberlings3/Geomantic_Sorcerer
 ----------------------------------------------------------------------------------------------
 EN INGLES
 
-https://github.com/A-Wizard-Did-It/Black-Hearts
+https://github.com/A-Wizard-Did-It/Black-Hearts ( no esta en español)
 
 https://github.com/Ychap/JA-AdventurePack ( no esta en español)
 
@@ -189,8 +189,6 @@ https://github.com/yellow-hat-elminster/Eve-Of-War ( no esta en español)
 https://github.com/SpellholdStudios/BG1_NPCs_for_SoA_-_ToB ( no esta en español)
 
 https://github.com/Pocket-Plane-Group/Under-Respresented_Items ( no esta en español)
-
-https://github.com/Gibberlings3/BS_Baldurans_Seatower  ( no esta en español)
 
 https://github.com/D2-mods/D2-Weapon ( no esta en español)
 
@@ -212,11 +210,9 @@ https://www.baldurs-gate.de/index.php?resources/tales-of-anegh.14/ ( no esta en 
 
 https://github.com/11jo/Paladins-of-Faerun-Quest-Pack/ ( no esta en español)
 
-https://www.baldurs-gate.de/index.php?resources/call-of-the-lost-goddess.67/ ( no esta en español)
+https://github.com/Gibberlings3/BS_Baldurans_Seatower ( no esta en español)
 
-https://www.baldurs-gate.de/index.php?resources/loretakers.68/ ( no esta en español)
-
-https://www.baldurs-gate.de/index.php?resources/dark-tidings.65/ ( no esta en español)
+https://github.com/AciferBG/Dark-Tidings ( no esta en español)
 
 https://github.com/SpellholdStudios/SarevokFriendship ( no esta en español)
 
