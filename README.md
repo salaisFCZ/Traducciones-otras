@@ -178,7 +178,7 @@ EN INGLES
 
 https://github.com/A-Wizard-Did-It/Black-Hearts ( no esta en español)
 
-https://github.com/Ychap/JA-AdventurePack ( no esta en español)
+https://github.com/Gitjas/JA-AdventurePack ( no esta en español)
 
 https://github.com/Ratatoskr589/All-Things-Mazzy ( no esta en español)
 
