@@ -176,6 +176,8 @@ https://github.com/Gibberlings3/Geomantic_Sorcerer
 ----------------------------------------------------------------------------------------------
 EN INGLES
 
+https://github.com/Glittergear/BloodAndFaith
+
 https://github.com/A-Wizard-Did-It/Black-Hearts ( no esta en español)
 
 https://github.com/Gitjas/JA-AdventurePack ( no esta en español)
