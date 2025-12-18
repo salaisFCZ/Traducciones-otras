@@ -268,6 +268,8 @@ https://github.com/Argent77/A7-WaresOfThePlanes ( no esta en español)
 
 https://github.com/SpellholdStudios/Bank_of_Baldurs_Gate ( no esta en español)
 
+https://github.com/The-Gate-Project/IWD_Item-Pack ( no esta en español)
+
 ----------------------------------------------------------------------------------
 
                                              Mejoras de "graficos y sonidos"
