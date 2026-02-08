@@ -91,7 +91,7 @@ https://github.com/RealApxu/The_Vault
 
 https://github.com/RoxanneSHS/BoneHill
 
-https://github.com/RealApxu/The_Secret_of_Bonehill/tree/main/bonehill
+https://www.shsforums.net/files/file/1076-the-secret-of-bonehill/ ( version se supone que mejor )
 
 https://github.com/SpellholdStudios/IEP_Extended_Banter
 
