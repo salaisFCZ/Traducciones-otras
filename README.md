@@ -97,6 +97,8 @@ https://github.com/SpellholdStudios/IEP_Extended_Banter
 
 https://github.com/RoxanneSHS/AjocMod
 
+https://github.com/Spellhold-Studios/AjocMod ( version se supone que mejor )
+
 https://github.com/SpellholdStudios/MinscFriendship
 
 https://github.com/SpellholdStudios/ImoenFriendship
