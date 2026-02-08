@@ -81,6 +81,8 @@ https://github.com/AciferBG/Throne-of-the-Mad-God
 
 https://www.pocketplane.net/quest-pack/
 
+https://github.com/Pocket-Plane-Group/QuestPack 
+
 https://github.com/orgs/Pocket-Plane-Group/repositories
 
 https://github.com/SpellholdStudios/TheSlitheringMenace
