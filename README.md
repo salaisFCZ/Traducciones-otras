@@ -85,6 +85,8 @@ https://github.com/Pocket-Plane-Group/QuestPack
 
 https://github.com/orgs/Pocket-Plane-Group/repositories
 
+https://github.com/The-Gate-Project/Domains-of-Dread
+
 https://github.com/SpellholdStudios/TheSlitheringMenace
 
 https://github.com/RoxanneSHS/VaultEE
