@@ -296,6 +296,11 @@ https://github.com/The-Gate-Project/IWD_Item-Pack ( no esta en español)
 
  ---------------------------------------------------------------
 
+ https://github.com/The-Gate-Project/klatu-tweaks-and-fixes ( usar The Gloves of Goodman Hayes - Free Action does not prevent Haste or Movement Rate Bonus
+- Drop Equipment on Disintegration - Drop Equipment on Petrification - Drop Equipment on Imprisonment - - Charisma has a stronger Effect on Store Prices
+
+
+
  https://github.com/Gibberlings3/Tweaks-Anthology
 
 https://github.com/Sampsca/ThrownHammers/releases
