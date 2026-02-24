@@ -31,6 +31,8 @@ https://github.com/Sampsca/BGEE-Classic-Movies
 
 https://github.com/Argent77/A7-ImprovedArcher
 
+https://github.com/Dau1makan/Item-Pack
+
 https://github.com/Gibberlings3/The_Boareskyr_Bridge_Scene
 
 https://github.com/Gibberlings3/Road_To_Discovery_for_SoD
