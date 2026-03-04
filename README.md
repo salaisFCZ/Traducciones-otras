@@ -186,6 +186,8 @@ EN INGLES
 
 https://github.com/Glittergear/BloodAndFaith
 
+https://github.com/Gibberlings3/G3_Community_Item_Pack
+
 https://github.com/A-Wizard-Did-It/Black-Hearts ( no esta en español)
 
 https://github.com/Gitjas/JA-AdventurePack ( no esta en español)
