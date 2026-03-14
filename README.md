@@ -5,6 +5,9 @@ These mods were already translated, I am just compiling them
 ---------------------------------------------------------------------------------------
 EN ESPAÑOL
 
+
+https://github.com/Gibberlings3/Restored-Rhynn-Lanthorn
+
 https://github.com/Gibberlings3/EET
 
 https://github.com/Argent77/A7-DlcMerger
