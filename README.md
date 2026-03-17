@@ -283,6 +283,8 @@ https://github.com/SpellholdStudios/Bank_of_Baldurs_Gate ( no esta en español)
 
 https://github.com/The-Gate-Project/IWD_Item-Pack ( no esta en español)
 
+https://github.com/BGforgeNet/bg2-wildmage ( no esta en español)
+
 ----------------------------------------------------------------------------------
 
                                              Mejoras de "graficos y sonidos"
