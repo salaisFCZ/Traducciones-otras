@@ -185,7 +185,10 @@ https://github.com/RamosPabloA/NPC_Dusk_MOD
 https://github.com/Gibberlings3/Geomantic_Sorcerer
 
 ----------------------------------------------------------------------------------------------
+
 EN INGLES
+
+https://forums.beamdog.com/discussion/38195/rogue-rebalancing-for-bg-ee-and-bg2-ee ( Chosen of Cyric encounter nuevos encuentros dificiltad -  Upgradeable equipment mejorar algunos item y agregar items nuevos para bardo y ladron )
 
 https://github.com/Glittergear/BloodAndFaith
 
