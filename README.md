@@ -288,6 +288,8 @@ https://github.com/The-Gate-Project/IWD_Item-Pack ( no esta en español)
 
 https://github.com/BGforgeNet/bg2-wildmage ( no esta en español)
 
+https://forums.beamdog.com/discussion/41836/mod-kensai-rebalancing-for-bg-ee-and-bgii-ee-v2-6 ( no esta en español)
+
 ----------------------------------------------------------------------------------
 
                                              Mejoras de "graficos y sonidos"
