@@ -76,6 +76,8 @@ https://github.com/SpellholdStudios/Lucy_the_Wyvern
 
 https://github.com/SpellholdStudios/Trovador_REO
 
+https://github.com/Gibberlings3/AurenAseph
+
 https://github.com/SpellholdStudios/The_Minotaur_and_Lilacor
 
 https://github.com/AciferBG/Call-of-the-Lost-Goddess
